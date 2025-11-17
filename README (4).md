@@ -53,9 +53,10 @@ and transactions.market_code="Mark001";`
 Power BI Dashboard Preview
 ============================
 
-![Page1](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/Sales-key-insight.png)
-![Page2](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-profit-analysis.png)
-![Page3](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-performance-insight.png)
+<img width="1003" height="627" alt="image" src="https://github.com/user-attachments/assets/8a736b3a-56ba-4b74-936c-d3ef7db93b90" />
+<img width="1007" height="637" alt="image" src="https://github.com/user-attachments/assets/6ddb82bc-7ba2-4c1a-8697-baff109f3952" />
+<img width="1005" height="635" alt="image" src="https://github.com/user-attachments/assets/d75f7c5a-60bf-4eb9-8f86-79fb4a6a4435" />
+
 
 
 
